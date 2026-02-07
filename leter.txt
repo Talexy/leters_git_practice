@@ -1,4 +1,4 @@
-Tabitha Zachariah Nekesa 
+Tabitha Zachariah 
 P.O. Box 45678 – 00100  
 Nairobi, Kenya  
 7 February 2026  
@@ -12,7 +12,7 @@ I am writing to formally apply for a position within Microsoft, particularly in 
 
 Through my studies and personal practice, I have developed a solid foundation in programming concepts, problem-solving, and logical thinking. I am familiar with tools such as Git for version control and have worked on small projects that strengthened my understanding of writing, testing, and improving code iteratively. I value clean code, continuous learning, and collaboration, which align closely with Microsoft’s engineering culture.
 
-I am particularly drawn to Microsoft because of its commitment to innovation, developer empowerment, and creating technology that has real-world impact. I am eager to learn from experienced engineers, contribute meaningfully to team projects, and grow my technical and professional skills within a structured graduate program.
+I am particularly drawn to Microsoft because of its commitment to innovation, developer empowerment, and creating technology that has real-world impact. I am eager to learn from experienced engineers, contribute meaningfully to team projects, and grow my technical and professional skills.
 
 I am motivated, adaptable, and willing to learn, and I believe I would thrive in an environment that challenges me while providing mentorship and growth opportunities. I would be grateful for the opportunity to further discuss how my skills and enthusiasm can contribute to Microsoft’s engineering teams.
 
